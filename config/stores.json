@@ -1,0 +1,48 @@
+{
+  "stores": {
+    "tesco": {
+      "name": "Tesco",
+      "baseUrl": "https://www.tesco.com",
+      "searchEndpoint": "/groceries/en-GB/search",
+      "selectors": {
+        "product": ".product-tile",
+        "name": ".product-title",
+        "price": ".price-per-unit",
+        "image": ".product-image img"
+      }
+    },
+    "asda": {
+      "name": "ASDA",
+      "baseUrl": "https://groceries.asda.com",
+      "searchEndpoint": "/search",
+      "selectors": {
+        "product": ".co-product",
+        "name": ".co-product__title",
+        "price": ".co-product__price",
+        "image": ".co-product__image img"
+      }
+    },
+    "sainsburys": {
+      "name": "Sainsbury's",
+      "baseUrl": "https://www.sainsburys.co.uk",
+      "searchEndpoint": "/gol-ui/SearchResults",
+      "selectors": {
+        "product": ".pd__shelf-item",
+        "name": ".pd__shelf-item-title",
+        "price": ".pd__cost__retail-price",
+        "image": ".pd__shelf-item-image img"
+      }
+    },
+    "morrisons": {
+      "name": "Morrisons",
+      "baseUrl": "https://groceries.morrisons.com",
+      "searchEndpoint": "/browse/search",
+      "selectors": {
+        "product": ".fops-shelf-item",
+        "name": ".fops-shelf-item-title",
+        "price": ".fops-price-per-unit",
+        "image": ".fops-item-image img"
+      }
+    }
+  }
+}
