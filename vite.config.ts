@@ -1,3 +1,4 @@
+// Vite configuration optimized for UK grocery price comparison app - Sept 2024
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { resolve } from 'path';

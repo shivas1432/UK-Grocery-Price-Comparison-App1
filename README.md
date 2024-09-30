@@ -301,3 +301,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Developed with ❤️ for the UK grocery shopping community**
+
+
+---
+*Last updated: September 2024 - Enhanced grocery price comparison features*

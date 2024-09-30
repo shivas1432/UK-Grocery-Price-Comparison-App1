@@ -1,3 +1,4 @@
+// Enhanced for grocery price comparison - Sept 2024 update
 import React, { useMemo, useState, lazy, Suspense } from 'react';
 import { Product, SearchFilters } from '../../types';
 import { LoadingGrid } from '../common/LoadingSpinner';

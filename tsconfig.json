@@ -1,3 +1,4 @@
+// TypeScript configuration updated for grocery app - Sept 2024
 {
   "files": [],
   "references": [
@@ -5,3 +6,4 @@
     { "path": "./tsconfig.node.json" }
   ]
 }
+

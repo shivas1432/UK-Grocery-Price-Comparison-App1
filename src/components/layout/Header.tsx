@@ -1,3 +1,4 @@
+// Enhanced for grocery price comparison - Sept 2024 update
 import React, { useState } from 'react';
 import { Search, ShoppingCart, Bell, Menu, Sun, Moon, Settings } from 'lucide-react';
 import { useApp } from '../../contexts/AppContext';

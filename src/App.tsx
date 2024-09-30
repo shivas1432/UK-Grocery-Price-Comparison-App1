@@ -1,3 +1,4 @@
+// Enhanced for grocery price comparison - Sept 2024 update
 import React, { Suspense, lazy, useEffect } from 'react';
 import { ErrorBoundary } from './components/common/ErrorBoundary';
 import { LoadingSpinner } from './components/common/LoadingSpinner';

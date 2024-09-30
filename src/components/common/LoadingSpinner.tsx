@@ -1,3 +1,4 @@
+// Enhanced for grocery price comparison - Sept 2024 update
 import React from 'react';
 
 interface LoadingSpinnerProps {

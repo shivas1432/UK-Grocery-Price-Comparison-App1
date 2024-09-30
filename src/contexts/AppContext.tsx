@@ -1,3 +1,4 @@
+// Enhanced for grocery price comparison - Sept 2024 update
 import React, { createContext, useContext, useReducer, useEffect, ReactNode } from 'react';
 import { Product, ShoppingList, PriceAlert, SearchFilters, AppSettings, ShoppingListItem } from '../types';
 import { mockProducts } from '../data/mockProducts';

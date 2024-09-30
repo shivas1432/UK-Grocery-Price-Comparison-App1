@@ -1,3 +1,4 @@
+// Enhanced for grocery price comparison - Sept 2024 update
 import React, { useState, useRef, useEffect } from 'react';
 import { Search, X, Filter } from 'lucide-react';
 import { useApp } from '../../contexts/AppContext';

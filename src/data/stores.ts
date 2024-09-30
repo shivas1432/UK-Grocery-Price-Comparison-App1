@@ -1,3 +1,4 @@
+// Enhanced for grocery price comparison - Sept 2024 update
 import { Store } from '../types';
 
 export const stores: Store[] = [

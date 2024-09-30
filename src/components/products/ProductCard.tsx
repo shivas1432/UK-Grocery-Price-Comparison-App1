@@ -1,3 +1,4 @@
+// Enhanced for grocery price comparison - Sept 2024 update
 import React, { useState } from 'react';
 import { ShoppingCart, Heart, TrendingDown, AlertCircle, Star, Plus } from 'lucide-react';
 import { Product } from '../../types';

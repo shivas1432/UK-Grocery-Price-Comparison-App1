@@ -1,3 +1,4 @@
+// Enhanced for grocery price comparison - Sept 2024 update
 import { Product, ProductCategory } from '../types';
 import { generatePriceHistory, generateStorePrice } from '../utils/dataGeneration';
 

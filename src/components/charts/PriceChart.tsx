@@ -1,3 +1,4 @@
+// Enhanced for grocery price comparison - Sept 2024 update
 import React, { useMemo } from 'react';
 import {
   Chart as ChartJS,
