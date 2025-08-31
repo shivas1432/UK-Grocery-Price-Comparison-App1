@@ -8,12 +8,12 @@ A comprehensive, production-ready web application for comparing grocery prices a
 ### Screenshots
 
 <p align="center">
-  <img src="/demo/1.png" alt="Homepage" width="45%" style="margin:10px;"/>
-  <img src="./demo/2.png" alt="Search Results" width="45%" style="margin:10px;"/>
+  <img src="demo/1.png" alt="Homepage" width="45%" style="margin:10px;"/>
+  <img src="demo/2.png" alt="Search Results" width="45%" style="margin:10px;"/>
 </p>
 <p align="center">
-  <img src="./demo/3.png" alt="Price History Chart" width="45%" style="margin:10px;"/>
-  <img src="./demo/4.png" alt="Shopping List" width="45%" style="margin:10px;"/>
+  <img src="demo/3.png" alt="Price History Chart" width="45%" style="margin:10px;"/>
+  <img src="demo/4.png" alt="Shopping List" width="45%" style="margin:10px;"/>
 </p>
 
 
