@@ -1,6 +1,21 @@
 # UK Grocery Price Comparison App
 
 A comprehensive, production-ready web application for comparing grocery prices across major UK supermarkets including Tesco, ASDA, Sainsbury's, Morrisons, Lidl, and Aldi.
+## 📺 Demo
+
+🔗 **Live Demo:** [UK Grocery Price Comparison App](https://uk-grocery-price-comparison-app.netlify.app/)
+
+### Screenshots
+
+<p align="center">
+  <img src="/demo/1.png" alt="Homepage" width="45%" style="margin:10px;"/>
+  <img src="./demo/2.png" alt="Search Results" width="45%" style="margin:10px;"/>
+</p>
+<p align="center">
+  <img src="./demo/3.png" alt="Price History Chart" width="45%" style="margin:10px;"/>
+  <img src="./demo/4.png" alt="Shopping List" width="45%" style="margin:10px;"/>
+</p>
+
 
 ## 🚀 Features
 
